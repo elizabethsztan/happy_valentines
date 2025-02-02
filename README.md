@@ -93,8 +93,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ### Common Issues
 
 1. **API Key Error**
-   - Ensure your OpenAI API key is correctly set up
-   - Run `happy_valentines --setup` to reconfigure
+   - Ensure your OpenAI API key is correctly set up from [OpenAI](https://platform.openai.com/settings/organization/api-keys)
+   - Run `happy_valentines --setup` to enter your API key
+   - You may need to put credits into your OpenAI account - only a small amount is required (<$1)
 
 2. **Cache Issues**
    - Clear the cache directory:
@@ -107,9 +108,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ### Getting Help
 
 If you encounter any issues, please:
-1. Check the troubleshooting section above
-2. Look for existing issues in the GitHub repository
-3. Create a new issue if needed
+1. Ask ChatGPT lol
 
 ## Credits
 
