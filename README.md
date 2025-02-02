@@ -34,15 +34,28 @@ happy_valentines
 
 ## Usage Examples
 
-### Basic Usage
-```bash
-happy_valentines
-```
-
 ### Personalised Poem
 ```bash
 $ happy_valentines
-Enter your love's name (or press Enter to use 'my love'): Ewan
+Enter your name (or press Enter to use 'my love'): Ewan
+
+Using API key: sk-pr...
+╭─────────────────────────────────────────────────────── ♥ A Poem For ewan ♥ ────────────────────────────────────────────────────────╮
+│ In the quiet of dawn, Ewan,                                                                                                        │
+│ Your laughter lights the day,                                                                                                      │
+│ A gentle breeze that whispers,                                                                                                     │
+│ In a soft and tender sway.                                                                                                         │
+│                                                                                                                                    │
+│ Moments shared in silence,                                                                                                         │
+│ Speak volumes only we hear,                                                                                                        │
+│ In every glance, a promise,                                                                                                        │
+│ In every touch, you're near.                                                                                                       │
+│                                                                                                                                    │
+│ Ewan, my heart's delight,                                                                                                          │
+│ In small things, love's truth lies,                                                                                                │
+│ A stolen glance, a fleeting touch,                                                                                                 │
+│ The world reflected in your eyes.                                                                                                  │
+╰──────────────────────────────────────────────────────── February 02, 2025 ─────────────────────────────────────────────────────────╯
 ```
 
 
