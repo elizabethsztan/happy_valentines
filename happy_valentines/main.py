@@ -45,7 +45,7 @@ class LovePoetry:
         else:  # macOS / Linux
             base_dir = Path.home() / '.config'
 
-        config_dir = base_dir / 'happy_valentines_6'
+        config_dir = base_dir / 'happy_valentines'
         config_dir.mkdir(parents=True, exist_ok=True)
         return config_dir
 
