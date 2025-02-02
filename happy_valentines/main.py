@@ -135,7 +135,7 @@ def main():
         return
 
     try:
-        name = input("Enter your love's name (or press Enter to use 'my love'): ").strip() or "my love"
+        name = input("Enter your name (or press Enter to use 'my love'): ").strip() or "my love"
         poetry = LovePoetry()
         poem = poetry.get_todays_poem(name)
         poetry.display_poem(poem, name)
