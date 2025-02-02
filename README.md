@@ -16,7 +16,7 @@ A delightful Python package that generates personalised love poems using OpenAI'
 ## Installation
 
 ```bash
-pip install happy-valentines
+pip install happy_valentines
 ```
 
 ## Quick Start (all of this is in your terminal/CLI)
